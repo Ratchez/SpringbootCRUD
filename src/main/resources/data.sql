@@ -1,0 +1,1 @@
+INSERT INTO BOOKS VALUES (1, 'Core and Advance Java', 'R.Nageswara Rao', 800);
